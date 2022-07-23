@@ -1,0 +1,11 @@
+D:\Users\MGaming\Desktop\git\fractals\fractals\fractals\bin\Debug\fractals.exe.config
+D:\Users\MGaming\Desktop\git\fractals\fractals\fractals\bin\Debug\fractals.exe
+D:\Users\MGaming\Desktop\git\fractals\fractals\fractals\bin\Debug\fractals.pdb
+D:\Users\MGaming\Desktop\git\fractals\fractals\fractals\obj\Debug\fractals.csproj.AssemblyReference.cache
+D:\Users\MGaming\Desktop\git\fractals\fractals\fractals\obj\Debug\fractals.csproj.SuggestedBindingRedirects.cache
+D:\Users\MGaming\Desktop\git\fractals\fractals\fractals\obj\Debug\fractals.Form1.resources
+D:\Users\MGaming\Desktop\git\fractals\fractals\fractals\obj\Debug\fractals.Properties.Resources.resources
+D:\Users\MGaming\Desktop\git\fractals\fractals\fractals\obj\Debug\fractals.csproj.GenerateResource.cache
+D:\Users\MGaming\Desktop\git\fractals\fractals\fractals\obj\Debug\fractals.csproj.CoreCompileInputs.cache
+D:\Users\MGaming\Desktop\git\fractals\fractals\fractals\obj\Debug\fractals.exe
+D:\Users\MGaming\Desktop\git\fractals\fractals\fractals\obj\Debug\fractals.pdb
